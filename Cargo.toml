@@ -83,3 +83,5 @@ test = false
 doc = false
 bench = false
 
+
+repository = "https://github.com/quinnjr/armature-fuzz"
